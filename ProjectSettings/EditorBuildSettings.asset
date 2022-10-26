@@ -6,10 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Test/Open VR Test.unity
+    path: Assets/MainProject/Scenes/Open VR Test.unity
     guid: 70dc4f4b318de8642817dce31d59365b
   - enabled: 1
-    path: Assets/Scenes/Test/Open NVR Test.unity
+    path: Assets/MainProject/Scenes/Open NVR Test.unity
     guid: 1971cd2f8b82a8844948bed8e8100698
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 98e3fc0a71cf0bd4cb313498be2fd9b7,
